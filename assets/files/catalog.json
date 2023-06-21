@@ -1,0 +1,116 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro",
+            "desc": "Apple iPhone 16th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._SL1500_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 14",
+            "desc": "Apple iPhone 16th generation",
+            "price": 799,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/I/61BGE6iu4AL._SL1500_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 13",
+            "desc": "Apple iPhone 15th generation",
+            "price": 599,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/I/71gm8v4uPBL._SL1500_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 749,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/71fVoqRC0wL._SX679_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "MacBook Pro M2",
+            "desc": "Apple Macbook Pro with M2 Max",
+            "price": 1999,
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/618gNo+ohxL._SL1500_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "M2 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1299,
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SL1500_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 2nd generation",
+            "price": 129,
+            "color": "#e3e4e9",
+            "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+        },
+        {
+            "id": 8,
+            "name": "Watch Ultra",
+            "desc": "Apple Watch Ultra",
+            "price": 799,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/91z5KuonXrL._SL1500_.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Watch Series 7",
+            "desc": "Apple Watch Series 7",
+            "price": 249,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/71YL6rnDToL._SL1500_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2022 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/814P0ojHArL._SL1500_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "iMac",
+            "desc": "Apple iMac 2021",
+            "price": 1299,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/61LNnZPoKPS._SL1500_.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Mac Mini",
+            "desc": "Apple Mac Mini Desktop 2023",
+            "price": 599,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/61jup8h--XL._SL1500_.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Apple TV",
+            "desc": "Apple TV 4k 2022 3rd Generation",
+            "price": 149,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/616bgkA2J0L._AC_CR0%2C0%2C0%2C0_SX480_SY360_.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 499,
+            "color": "#544ee4",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kj7gwi80/gamingconsole/n/3/c/cfi-1008b01r-825-sony-no-original-imafytxenahqnnpu.jpeg?q=70"
+        }
+    ]
+}
